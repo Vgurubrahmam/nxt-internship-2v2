@@ -14,7 +14,7 @@
     width: 100%;
     background-image:
         linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),
-        url("/asserts/Assignment\ to\ be\ completed\ by\ 4\ Dec\ 2024/image1.png");
+        url("/images/image1.png");
 
     background-position: center;
     display: flex;
@@ -181,7 +181,7 @@
 /* exceptional page */
 .exceptional-con {
     height: 100vh;
-    background-image: url("/asserts/Assignment\ to\ be\ completed\ by\ 4\ Dec\ 2024/spacio TechTonics Consultancy V21.png");
+    background-image: url("/images/Spacio\ TechTonics\ Consultancy\ V21.png");
 
     display: flex;
     flex-direction: column;
@@ -395,7 +395,7 @@
     background-image:
         linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)),
 
-        url("/asserts/Assignment\ to\ be\ completed\ by\ 4\ Dec\ 2024/spacio TechTonics Consultancy V21.png");
+        url("/images/Spacio\ TechTonics\ Consultancy\ V21.png");
     background-size: calc(150%);
 }
 
